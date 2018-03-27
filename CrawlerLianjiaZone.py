@@ -4,7 +4,6 @@ import os
 import re
 import psycopg2
 import json
-import re
 import time
 
 url = "https://hz.lianjia.com/api/headerSearch?cityId=330100&cityName=杭州&channel=xiaoqu&q=&keyword=世纪新城";
